@@ -1,3 +1,8 @@
+
+**IMPORTANT**
+**Register for an app and get CLIENT_ID Key and CLIENT_SECERT Key from here: https://github.com/settings/applications/new
+Add the CLIENT_ID and SECRET in '.env.local' file.**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
